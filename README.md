@@ -1,5 +1,5 @@
-# learn-to-code
-Basics of coding. Starts with a terminal introduction. Grows to version control, basic programs and context of an application from the front end to the backend.
+# coding alphabet
+Basics of coding. Starts with a terminal introduction. Grows to version control, basic programs and context of an application from frontend to backend.
 
 ## Syllabus
 
