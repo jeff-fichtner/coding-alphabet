@@ -3,7 +3,12 @@ Basics of coding. Starts with a terminal introduction. Grows to version control,
 
 ## Syllabus
 
-### Terminal
+Prereqs:
+- Download VS Code
+- Create account on github
+
+
+### Terminal - only for deep learners
 
 Learn where it is.
 Learn what and why it is.
@@ -16,7 +21,9 @@ Learn how to:
 - run programs
 - run programs with arguments
 
-### Git
+### ALT - Visual Studio Code - no prereq needed
+
+### Git (Terminal or VS Code)
 
 Learn what and why it is.
 Learn remote and local.
@@ -34,30 +41,45 @@ Learn how to:
 #### Data Types I
 
 - string
+Program - Print "Hello World" to the console.
 
-#### Program
+```javascript
+console.log("Hello World");
+```
 
-- basic statement
-- logging to console
-- 'Hello world' application
-- method calls
-- method parameters
+- evaluation line by line
+- if something goes wrong, we'll want to figure out what line it came from
+
+- boolean + saving a variable
+```javascript
+let boolean = true;
+if (boolean)
+{
+    console.log("This was true.");
+}
+else
+{
+    console.log("This was false.");
+}
+```
+Add additional variable.
+Change the boolean to a greater than or less than (introduces number aka integer)
+Program - age limit for movie theater.
+Program - ingredients in a recipe.
+
+COMMENT IT OUT.
+
+Add it to an array (just put brackets around a list of numbers).
+Print the array.
+Make conditions based on that array.
 
 #### Data Types II
 
-- boolean
-- char
-- string
-- integer
-- double/decimal
-- enum
-- array
 - hash/dictionary
 - object/class
 
-#### Conditions
+#### Conditions II
 
-- if/elseif/else
 - switch/case
 - conversion
 - comparison
@@ -73,6 +95,14 @@ Learn how to:
 - debugging
 - documentation
 - googling
+
+#### Data Types III
+
+- char
+- double/decimal
+- enum
+
+### BREAK OUT FOR DB if needed
 
 ### Context
 
@@ -91,3 +121,7 @@ Learn how to:
 #### Services
 
 #### Data Storage
+
+
+-- summary of starting with new language
+-- add prerequisites to each item
